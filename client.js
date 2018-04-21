@@ -37,4 +37,4 @@ client.on('message', message => {
 
 
 
-client.login('bt');
+client.login(process.env.bt);
