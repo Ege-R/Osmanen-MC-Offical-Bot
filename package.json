@@ -1,0 +1,13 @@
+{
+  "name": "Osmanen MC Offical Bot",
+  "description": "Kan'a Kan !",
+  "version": "1.0.2",
+  "main": "client.js",
+  "scripts": {
+    "start": "node client.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
