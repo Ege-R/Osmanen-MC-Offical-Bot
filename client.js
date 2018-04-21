@@ -37,4 +37,4 @@ client.on('message', message => {
 
 
 
-client.login(process.env.bt);
+client.login(process.env.BOT_TOKEN);
